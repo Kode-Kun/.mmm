@@ -17,14 +17,14 @@ def clear():
 # game starts here
 def displayIntro():
     print("/.mmm/")
-    time.sleep(1)
+    time.sleep(2)
     print("")
     print("write your answer after /.mmm/. if the answer is right, you will")
     print("move to the next level.")
     print("there are no spaces in the answers.")
     print("if you guess the answer is 'this is the answer', you should write")
     print("thisistheanswer")
-    time.sleep(1)
+    time.sleep(2)
     print("you are free to use any tool, website and software available on your")
     print("pc and on the internet.")
     print("")
