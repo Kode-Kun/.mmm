@@ -1,7 +1,7 @@
 # welcome to .mmm
 # puzzle game
-# pls dont modify or look at anything here before finishing the game
-# if you want to have the full /.mmm/ experience, that is
+# GAME IS UNFINISHED. this is a project I worked on back in 2019, and I've since lost my notes on it.
+# Level 4 is currently broken, more details on line 68
 # made by Kode-Kun
 
 import random
@@ -65,6 +65,13 @@ print("discord")
 print("/416002061042450432/673650586977042461/mmm29299291167.jpg")
 chooseCommand("ifeelsolightwithoutthehumansoul")
 clear()
+
+# TODO: fix level 4. the cypher does not translate to what its supposed to,
+# and the picture in the youtube video no longer seems to lead to the appropriate book.
+# I might just have to completely rework that part of this level.
+# I genuinely cannot find the book anymore. I've tried searching through databases of books released in 1916, to no avail.
+# The key to the cypher was the author's name, and the output of it was supposed to be "a cold wind rattles through our bones"
+
 print("Level 4")
 time.sleep(2)
 print("il vero modo di screvere in cifra")
